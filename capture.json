@@ -1,0 +1,443 @@
+{
+  "capturedAt": "2026-06-01T11:15:09.806Z",
+  "sourceUrl": "https://resumeleader.com/",
+  "title": "Create a Resume Your Way - Online Resume Builder",
+  "viewport": {
+    "width": 1728,
+    "height": 873,
+    "devicePixelRatio": 2
+  },
+  "documentSize": {
+    "width": 1728,
+    "height": 4955
+  },
+  "stats": {
+    "elementCount": 516,
+    "stylesheetCount": 5,
+    "openShadowRootCount": 1
+  },
+  "assets": [
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/worksans/v24/QGYsz_wNahGAdqQ43Rh_c6DptfpA4cD3.woff2",
+      "localPath": "site/assets/images/qgysz_wnahgadqq43rh_c6dptfpa4cd3-a7685ec477b23edc.woff2",
+      "contentType": "font/woff2",
+      "kind": "css-asset",
+      "bytes": 11776
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/worksans/v24/QGYqz_wNahGAdqQ43Rh_eZDkv_1i4_D2E4A.woff2",
+      "localPath": "site/assets/images/qgyqz_wnahgadqq43rh_ezdkv_1i4_d2e4a-73e14126fe55cec2.woff2",
+      "contentType": "font/woff2",
+      "kind": "css-asset",
+      "bytes": 11760
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJuktqUYLkn8BJ.woff2",
+      "localPath": "site/assets/images/qgyvz_mvcbenp4njuktquylkn8bj-9e38b3f1575daba3.woff2",
+      "contentType": "font/woff2",
+      "kind": "css-asset",
+      "bytes": 14760
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/worksans/v24/QGYqz_wNahGAdqQ43Rh_eZDlv_1i4_D2E4A.woff2",
+      "localPath": "site/assets/images/qgyqz_wnahgadqq43rh_ezdlv_1i4_d2e4a-e5431364e5d49261.woff2",
+      "contentType": "font/woff2",
+      "kind": "css-asset",
+      "bytes": 32284
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtqUYLknw.woff2",
+      "localPath": "site/assets/images/qgyvz_mvcbenp4njtetquylknw-92684e4acde79ef0.woff2",
+      "contentType": "font/woff2",
+      "kind": "css-asset",
+      "bytes": 32228
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/worksans/v24/QGYsz_wNahGAdqQ43Rh_cqDptfpA4cD3.woff2",
+      "localPath": "site/assets/images/qgysz_wnahgadqq43rh_cqdptfpa4cd3-fe0af300ce569323.woff2",
+      "contentType": "font/woff2",
+      "kind": "css-asset",
+      "bytes": 35776
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/worksans/v24/QGYsz_wNahGAdqQ43Rh_fKDptfpA4Q.woff2",
+      "localPath": "site/assets/images/qgysz_wnahgadqq43rh_fkdptfpa4q-72cd8f67849cc714.woff2",
+      "contentType": "font/woff2",
+      "kind": "css-asset",
+      "bytes": 50524
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/worksans/v24/QGYqz_wNahGAdqQ43Rh_eZDrv_1i4_D2.woff2",
+      "localPath": "site/assets/images/qgyqz_wnahgadqq43rh_ezdrv_1i4_d2-b87f48add7ec3052.woff2",
+      "contentType": "font/woff2",
+      "kind": "css-asset",
+      "bytes": 48264
+    },
+    {
+      "sourceUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap",
+      "localPath": "site/assets/styles/css2-33095772f2c6b87a.css",
+      "contentType": "text/css; charset=utf-8",
+      "kind": "style",
+      "bytes": 3318
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/favicon.svg",
+      "localPath": "site/assets/images/favicon-10491ef9057d757d.svg",
+      "contentType": "image/svg+xml",
+      "kind": "icon",
+      "bytes": 819
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/logo.gFId4Nra.svg",
+      "localPath": "site/assets/images/logo.gfid4nra-475c81979c1b2ecc.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 13465
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/pencil.DjzqT-93.svg",
+      "localPath": "site/assets/images/pencil.djzqt-93-56cecfd3f65555c5.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 459
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/download.Cc8ccJ8n.svg",
+      "localPath": "site/assets/images/download.cc8ccj8n-bd5afd03cdf32c03.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 1178
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/burger-menu-closed.C8dqC5CO.svg",
+      "localPath": "site/assets/images/burger-menu-closed.c8dqc5co-26466fe84823a259.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 1264
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/trustpilot-logo.C_IlBpby.svg",
+      "localPath": "site/assets/images/trustpilot-logo.c_ilbpby-8d7c192cd0fbf638.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 8325
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/arrow-forward.DHsIJYHy.svg",
+      "localPath": "site/assets/images/arrow-forward.dhsijyhy-7e09732d6620887c.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 668
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/arrow-back.mPRxI0yN.svg",
+      "localPath": "site/assets/images/arrow-back.mprxi0yn-925a41cac843bcf9.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 671
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/check-icon.C5oI6gar.svg",
+      "localPath": "site/assets/images/check-icon.c5oi6gar-8067b601d8ec2adc.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 743
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/trustpilot.Doyf8vFK.svg",
+      "localPath": "site/assets/images/trustpilot.doyf8vfk-a6515af91f492385.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 447
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/cleveland-clinic.SBl4JA5U.svg",
+      "localPath": "site/assets/images/cleveland-clinic.sbl4ja5u-4fa2a68088b069d7.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 6047
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/amazon.Cmh1ih6f.svg",
+      "localPath": "site/assets/images/amazon.cmh1ih6f-d4181c5d33ec18ab.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 6465
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/burger-king.DuwDssWs.svg",
+      "localPath": "site/assets/images/burger-king.duwdssws-6bc35bb5a5ab1bfa.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 7651
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/mcdonalds.DYzAZhyR.svg",
+      "localPath": "site/assets/images/mcdonalds.dyzazhyr-fa60898c85ac1a9a.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 5327
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/netflix.BsBsPsKa.svg",
+      "localPath": "site/assets/images/netflix.bsbspska-7296c1d441b44d7a.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 1204
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/walmart.CtSEQqNL.svg",
+      "localPath": "site/assets/images/walmart.ctseqqnl-819c8587701163fb.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 5252
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/step-group-1.CcpPBMZf.svg",
+      "localPath": "site/assets/images/step-group-1.ccppbmzf-6693a3431d2cf9ff.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 3399
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/step-group-mobile-1.D0S22m7b.svg",
+      "localPath": "site/assets/images/step-group-mobile-1.d0s22m7b-3c55c77f26c209d9.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 3096
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/step-group-2.BHyffPIg.svg",
+      "localPath": "site/assets/images/step-group-2.bhyffpig-c1393da1ca5d5ec9.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 3942
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/step-group-mobile-2.CjGvLBBc.svg",
+      "localPath": "site/assets/images/step-group-mobile-2.cjgvlbbc-d28440067c40b61e.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 3570
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/step-group-3.DjB72qwO.svg",
+      "localPath": "site/assets/images/step-group-3.djb72qwo-0aac3c6508d83ab0.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 5524
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/step-group-mobile-3.Czewmj8L.svg",
+      "localPath": "site/assets/images/step-group-mobile-3.czewmj8l-c143ae56fa4e328c.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 5103
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/step-group-4.Cffdu2tl.svg",
+      "localPath": "site/assets/images/step-group-4.cffdu2tl-ee6b22db6c4f8e67.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 3486
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/step-group-mobile-4.DVzh-9bF.svg",
+      "localPath": "site/assets/images/step-group-mobile-4.dvzh-9bf-c7db37771e57f5db.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 3283
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/question.DSPfKRng.svg",
+      "localPath": "site/assets/images/question.dspfkrng-8942e8a0a38be88c.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 2473
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/arrow-right.BptWGt3E.svg",
+      "localPath": "site/assets/images/arrow-right.bptwgt3e-36d7a76f6e0d88f8.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 647
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/new-page-hero-img-1.gl0BuVaO.png",
+      "localPath": "site/assets/images/new-page-hero-img-1.gl0buvao-472e471f44e6b375.png",
+      "contentType": "image/png",
+      "kind": "image",
+      "bytes": 375319
+    },
+    {
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/gb.svg",
+      "localPath": "site/assets/images/gb-c8be1e7208798a4a.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 504
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/close-button.f92r4P5i.svg",
+      "localPath": "site/assets/images/close-button.f92r4p5i-9cb035d876e29300.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 384
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/costco.CdjfmYgL.svg",
+      "localPath": "site/assets/images/costco.cdjfmygl-6b8712fd9f8b2e20.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 10741
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/logo-white.DWWF050B.svg",
+      "localPath": "site/assets/images/logo-white.dwwf050b-fc2d4f209859e3c4.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 13138
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/new-page-hero-img-2.cljzACc5.png",
+      "localPath": "site/assets/images/new-page-hero-img-2.cljzacc5-c7b92962f66cfb00.png",
+      "contentType": "image/png",
+      "kind": "image",
+      "bytes": 324303
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/disney.BlKhUdD6.svg",
+      "localPath": "site/assets/images/disney.blkhudd6-a5f3b09324ac2fb5.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 14242
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/pepsi-co.DxQ8va_S.svg",
+      "localPath": "site/assets/images/pepsi-co.dxq8va_s-1d014447d13ede4a.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 15881
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/nestle.D4h7kqt6.svg",
+      "localPath": "site/assets/images/nestle.d4h7kqt6-f627fa29a69f5030.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 27484
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/brooklyn-black.Dqxsiue1.png",
+      "localPath": "site/assets/images/brooklyn-black.dqxsiue1-8f8e389e7a1889ec.png",
+      "contentType": "image/png",
+      "kind": "css-asset",
+      "bytes": 121461
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/budapest-black.DKpDngJz.png",
+      "localPath": "site/assets/images/budapest-black.dkpdngjz-9093bd17b30cd6b4.png",
+      "contentType": "image/png",
+      "kind": "css-asset",
+      "bytes": 133296
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/bilbao-blue.Brf4uZ3k.png",
+      "localPath": "site/assets/images/bilbao-blue.brf4uz3k-1caec0cdd70b1a02.png",
+      "contentType": "image/png",
+      "kind": "css-asset",
+      "bytes": 252080
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/dallas-green.D-esTwaq.png",
+      "localPath": "site/assets/images/dallas-green.d-estwaq-c077430938e5fa8b.png",
+      "contentType": "image/png",
+      "kind": "css-asset",
+      "bytes": 191672
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/dublin-default.BKV5x9Pn.png",
+      "localPath": "site/assets/images/dublin-default.bkv5x9pn-ed7f18ddced77027.png",
+      "contentType": "image/png",
+      "kind": "css-asset",
+      "bytes": 186808
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/cambridge-default.2H2M6liU.png",
+      "localPath": "site/assets/images/cambridge-default.2h2m6liu-1770a05c1c53e8ed.png",
+      "contentType": "image/png",
+      "kind": "css-asset",
+      "bytes": 124308
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/bg.DJP5T2UP.png",
+      "localPath": "site/assets/images/bg.djp5t2up-90115e0ae4915d78.png",
+      "contentType": "image/png",
+      "kind": "image",
+      "bytes": 2273158
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/review-avatars-desktop.BofUHZCV.svg",
+      "localPath": "site/assets/images/review-avatars-desktop.bofuhzcv-42880911a14de514.svg",
+      "contentType": "image/svg+xml",
+      "kind": "image",
+      "bytes": 10659185
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/colored-dot.CBsgD5m2.png",
+      "localPath": "site/assets/images/colored-dot.cbsgd5m2-3c0a359707252d82.png",
+      "contentType": "image/png",
+      "kind": "css-asset",
+      "bytes": 10284
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/rirekisho-default-noPhoto-1column.BKqT6-5I.png",
+      "localPath": "site/assets/images/rirekisho-default-nophoto-1column.bkqt6-5i-764b6b19d605e179.png",
+      "contentType": "image/png",
+      "kind": "css-asset",
+      "bytes": 70696
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/europass-default.CSOEcZd7.png",
+      "localPath": "site/assets/images/europass-default.csoeczd7-0e977591f40c8b92.png",
+      "contentType": "image/png",
+      "kind": "css-asset",
+      "bytes": 102432
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/london-default.DpkJH8Go.png",
+      "localPath": "site/assets/images/london-default.dpkjh8go-d7c42537003c675f.png",
+      "contentType": "image/png",
+      "kind": "css-asset",
+      "bytes": 132217
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/new-york-black.JcGPqPYB.png",
+      "localPath": "site/assets/images/new-york-black.jcgpqpyb-38f13c375f61de56.png",
+      "contentType": "image/png",
+      "kind": "css-asset",
+      "bytes": 125029
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/shokumu-default-noPhoto-1column.C3erWUqA.png",
+      "localPath": "site/assets/images/shokumu-default-nophoto-1column.c3erwuqa-9d0a92f63baac868.png",
+      "contentType": "image/png",
+      "kind": "css-asset",
+      "bytes": 135427
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/houston-green.DJkkKeah.png",
+      "localPath": "site/assets/images/houston-green.djkkkeah-cc257dfae8d446d5.png",
+      "contentType": "image/png",
+      "kind": "css-asset",
+      "bytes": 165793
+    },
+    {
+      "sourceUrl": "https://resumeleader.com/assets/lisboa-default.De5pGSdE.png",
+      "localPath": "site/assets/images/lisboa-default.de5pgsde-8aaae16c47e066ed.png",
+      "contentType": "image/png",
+      "kind": "css-asset",
+      "bytes": 204609
+    }
+  ],
+  "failedResources": [],
+  "warnings": []
+}

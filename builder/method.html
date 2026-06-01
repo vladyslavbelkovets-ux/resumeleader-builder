@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>How would you like to build your resume? — ResumeLeader</title>
+  <link rel="stylesheet" href="assets/builder.css" />
+</head>
+<body>
+  <header class="bld-header">
+    <a class="bld-brand" href="../site/index.html">
+      <img src="../site/assets/images/logo.gfid4nra-475c81979c1b2ecc.svg" alt="ResumeLeader" />
+      ResumeLeader
+    </a>
+    <nav class="bld-nav">
+      <a href="index.html" class="is-active">Resumes</a>
+      <a href="method.html">Cover Letters</a>
+    </nav>
+    <span class="bld-spacer"></span>
+    <a class="btn btn-primary" href="index.html">+ Create</a>
+  </header>
+
+  <main class="bld-main center-narrow">
+    <h1 class="bld-title">How would you like to build your resume?</h1>
+
+    <div class="method-grid">
+      <div class="method-card">
+        <div class="icon">&#10024;</div>
+        <h3>Start with a new resume</h3>
+        <p>Get step-by-step support with expert content suggestions at your fingertips!</p>
+        <a class="btn btn-soft btn-block" href="editor.html">Create new</a>
+      </div>
+      <div class="method-card">
+        <div class="icon">&#128196;</div>
+        <h3>Upload an existing resume</h3>
+        <p>Edit your resume using expertly generated content in a fresh, new design.</p>
+        <label class="btn btn-primary btn-block" style="cursor:pointer;">
+          &#8682; Choose file
+          <input type="file" accept=".pdf,.docx" hidden />
+        </label>
+        <p class="hint">Accepted file types: PDF, DOCX</p>
+      </div>
+    </div>
+
+    <div class="method-foot">
+      <a class="btn btn-ghost" href="index.html">&#8249; Back</a>
+      <a class="btn btn-primary" href="editor.html">Continue</a>
+    </div>
+  </main>
+
+  <script src="assets/builder.js"></script>
+</body>
+</html>

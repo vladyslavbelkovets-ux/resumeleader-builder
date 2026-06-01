@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Your resume — ResumeLeader</title>
+  <link rel="stylesheet" href="assets/builder.css" />
+</head>
+<body>
+  <div class="editor-head">
+    <a class="chev" href="method.html">&#8249;</a> Your resume
+  </div>
+
+  <div class="editor">
+    <!-- Left rail -->
+    <aside class="steps" id="steps">
+      <div class="step-item is-active" data-step="0"><span class="num">1</span> Personal details</div>
+      <div class="step-item" data-step="1"><span class="num">2</span> Contact info</div>
+      <div class="step-item" data-step="2"><span class="num">3</span> Work experience</div>
+      <div class="step-item" data-step="3"><span class="num">4</span> Skills</div>
+      <div class="step-item" data-step="4"><span class="num">5</span> Education</div>
+      <div class="step-item" data-step="5"><span class="num">6</span> Professional summary</div>
+      <div class="step-item" data-step="6"><span class="num">7</span> Add section</div>
+    </aside>
+
+    <!-- Center forms -->
+    <section class="panel">
+      <form class="step-form is-active" data-step="0">
+        <h2>Personal details</h2>
+        <p class="desc">Adding your name and desired job title helps recruiters quickly understand who you are and what role you want.</p>
+        <div class="field-row">
+          <input class="field" id="pv-first" placeholder="First name" />
+          <input class="field" id="pv-last" placeholder="Last name" />
+        </div>
+        <input class="field" id="pv-title" placeholder="Desired job title" />
+        <div class="panel-foot"><button type="button" class="btn btn-primary" data-next>Next &#8250;</button></div>
+      </form>
+
+      <form class="step-form" data-step="1">
+        <h2>Contact info</h2>
+        <p class="desc">How can employers reach you?</p>
+        <input class="field" placeholder="Email" />
+        <input class="field" placeholder="Phone" />
+        <input class="field" placeholder="City, Country" />
+        <div class="panel-foot"><button type="button" class="btn btn-primary" data-next>Next &#8250;</button></div>
+      </form>
+
+      <form class="step-form" data-step="2">
+        <h2>Work experience</h2>
+        <p class="desc">Show your most relevant roles first.</p>
+        <input class="field" placeholder="Job title" />
+        <input class="field" placeholder="Company" />
+        <textarea class="field" rows="4" placeholder="What did you do?"></textarea>
+        <div class="panel-foot"><button type="button" class="btn btn-primary" data-next>Next &#8250;</button></div>
+      </form>
+
+      <form class="step-form" data-step="3">
+        <h2>Skills</h2>
+        <p class="desc">Add the skills that match the job.</p>
+        <input class="field" placeholder="e.g. Project management" />
+        <input class="field" placeholder="e.g. Communication" />
+        <div class="panel-foot"><button type="button" class="btn btn-primary" data-next>Next &#8250;</button></div>
+      </form>
+
+      <form class="step-form" data-step="4">
+        <h2>Education</h2>
+        <p class="desc">Where did you study?</p>
+        <input class="field" placeholder="School / University" />
+        <input class="field" placeholder="Degree" />
+        <div class="panel-foot"><button type="button" class="btn btn-primary" data-next>Next &#8250;</button></div>
+      </form>
+
+      <form class="step-form" data-step="5">
+        <h2>Professional summary</h2>
+        <p class="desc">A short pitch about who you are.</p>
+        <textarea class="field" rows="5" placeholder="Write 2-3 sentences..."></textarea>
+        <div class="panel-foot"><button type="button" class="btn btn-primary" data-next>Next &#8250;</button></div>
+      </form>
+
+      <form class="step-form" data-step="6">
+        <h2>Add section</h2>
+        <p class="desc">Add extra sections like Languages, Certifications, or Projects.</p>
+        <input class="field" placeholder="Section title" />
+        <div class="panel-foot"><button type="button" class="btn btn-primary" data-next>Finish</button></div>
+      </form>
+    </section>
+
+    <!-- Right live preview -->
+    <section class="preview-wrap">
+      <div class="preview-bar">
+        <span class="progress-badge" id="progress-badge">0%</span>
+        <div class="progress-track"><div class="progress-fill" id="progress-fill"></div></div>
+        <a class="change-tpl" href="index.html">&#9881; Change template</a>
+      </div>
+      <div class="paper">
+        <h1 id="pv-name">YOUR NAME</h1>
+        <div class="pv-contact"><span id="pv-job">Desired job title</span></div>
+        <div class="pv-sec">PROFESSIONAL SUMMARY</div>
+        <p>Highlight your background, skills, and goals in a couple of lines.</p>
+        <div class="pv-sec">WORK EXPERIENCE</div>
+        <p>Job title — Company<br>Key achievements and responsibilities.</p>
+        <div class="pv-sec">EDUCATION</div>
+        <p>Degree — School / University</p>
+        <div class="pv-sec">SKILLS</div>
+        <p>Skill 1 · Skill 2 · Skill 3 · Skill 4</p>
+      </div>
+    </section>
+  </div>
+
+  <script src="assets/builder.js"></script>
+</body>
+</html>
